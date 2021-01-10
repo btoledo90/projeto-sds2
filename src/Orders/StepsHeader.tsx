@@ -1,4 +1,3 @@
-import './styles.css';
 
 function StepsHeader(){
     return (
@@ -10,11 +9,11 @@ function StepsHeader(){
                 </h1>
                 <ul className="steps-items">
                     <li>
-                        <span className="stetps-number">1</span>
+                        <span className="steps-number">1</span>
                         Selecione os produtos e localização
                     </li>
                     <li>
-                    <span className="stetps-number">2</span>
+                    <span className="steps-number">2</span>
                     Depois clique em <strong>"ENVIAR PEDIDO"</strong>
 
                     </li>
